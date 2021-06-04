@@ -1,1 +1,2 @@
-# Stepik_labs
+# Решение задач из курса: https://stepik.org/course/217/syllabus
+# Выполнил: студент ИВТ-Б20, Осипов Матвей
